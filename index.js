@@ -10,7 +10,14 @@ const songs = [
     { title: "Ain't No Mountain High Enough", artist: "Marvin Gaye & Tammi Terrell", genre: "R&B" },
     { title: "Come and Get Your Love", artist: "Redbone", genre: "Rock" },
     { title: "I'm Not in Love", artist: "10cc", genre: "Pop" },
-    { title: "Fooled Around and Fell in Love", artist: "Elvin Bishop", genre: "Rock" },
+    { title: "Be My Summer", artist: "Snoh Alegra", genre: "R&B" },
+    { title: "Two Faced", artist: "Linkin Park", genre: "Rock" },
+    { title: "The Emptyness Machine", artist: "Linkin Park", genre: "Rock" },
+    { title: "Doves in the Wind", artist: "SZA", genre: "R&B" },
+    { title: "Session 32", artist: "Summer Walker", genre: "R&B" },
+    { title: "Ghost", artist: "Justin Bieber", genre: "Pop" },
+    { title: "Circles", artist: "Post Malone", genre: "Pop" },
+    
     // Feel free to add even more songs
 ];
 
