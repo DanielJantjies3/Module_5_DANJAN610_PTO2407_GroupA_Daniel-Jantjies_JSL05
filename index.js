@@ -65,7 +65,7 @@ playlist.forEach(track => {
     songTitleSpan.textContent = track.title;
     songParagraph.appendChild(songTitleSpan);
 
-songParagraph.innerHTML += `by ${track.artist}`;
+songParagraph.innerHTML += ` by ${track.artist}`;
 individualPlaylistDiv.appendChild(songParagraph);
 
 });
