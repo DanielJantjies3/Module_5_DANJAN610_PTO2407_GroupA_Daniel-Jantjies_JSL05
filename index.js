@@ -56,7 +56,7 @@ playlists.forEach(({ guardian, playlist}) => {
     individualPlaylistDiv.appendChild(heading);
 
 
-playlists.forEach(track => {
+playlist.forEach(track => {
     const songParagraph = document.createElement('p');
     songParagraph.classList.add('song');
 
